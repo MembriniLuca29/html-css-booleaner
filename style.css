@@ -83,3 +83,26 @@ thead{
 footer{
     padding-top: 50px;
 }
+
+
+#monitor{
+    background-image: url(img/monitor.jpg);
+    height: 180px;
+    width:240px ;
+    color: white;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    font-weight: bold;
+}
+
+#graph{
+    background-image: url(img/graph.jpg);
+    height: 180px;
+    width:240px ;
+    color: white;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    font-weight: bold;
+}
