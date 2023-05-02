@@ -36,7 +36,7 @@ h1{
 .grey{
     font-size: 18px;
     color: gray;
-    margin: 5px 0;
+    margin: -14px 0 0 8px;
 }
 
 #subtext{
@@ -46,4 +46,40 @@ h1{
 #subtext2{
     margin-top: 2px;
     font-size: 14px;
+}
+
+#margin{
+    margin: 0 15px;
+}
+
+/* ---------------------------MAIN */
+
+
+.evidence{background-color: yellow;}
+
+ul{
+    padding-left: 20px;
+}
+
+table{
+    width: 100%;
+    text-align: left;
+}
+
+thead{
+    color: white;
+    background-color:rgb(67, 146, 211);
+}
+#column3{
+    width: 50%;
+}
+
+
+.background-blue{
+    background-color: skyblue;
+}
+
+
+footer{
+    padding-top: 50px;
 }
